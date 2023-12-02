@@ -3,10 +3,16 @@
 2. Url base: localhost
 
 3. Endpoints;
-     -localhost/livros (GET)
-     -localhost/livros (POST)
-     -localhost/livros/id (GET)
-     -localhost/livros/id (PUT)
-     -localhost/livros/id (DELETE)
+     -localhost/filmes (GET)
+     -localhost/filmes (POST)
+     -localhost/filmes/id (GET)
+     -localhost/filmes/id (PUT)
+     -localhost/filmes/id (DELETE)
 
-4. Recursos: livros
+4. Recursos: filmes
+
+5. Filme terá;
+     titulo:
+     imgurl:
+     sinopse:
+     avaliacao:
